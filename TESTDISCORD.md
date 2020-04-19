@@ -2,5 +2,4 @@
 
 ## https://discord.gg/YKk3nB
 
-Test ONE - FAILED\n
-Test TWO -
+Test FAILED
