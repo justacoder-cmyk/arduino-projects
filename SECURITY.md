@@ -1,16 +1,14 @@
 # Security Policy
 
 ## Supported Versions
+Supported versions of Arduino IDE - Genuino
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
+| IDE Version | Supported Arduinos          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.8.12  | :white_check_mark: |
+| 1.8.11 | :x: Untested               |
+| 1.8.11>| :x: Untested |
+|   | :x:                |
 
 ## Reporting a Vulnerability
 
