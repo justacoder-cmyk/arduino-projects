@@ -9,5 +9,4 @@ void loop() { // This is a loop, which will loop our code.
   delay(1000); // Delay in milliseconds before next code
   digitalWrite(redLED, LOW); // Tells pin to use LOW
   delay(1000);// Delay in milliseconds before next code
-
 }
